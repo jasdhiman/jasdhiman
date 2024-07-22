@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects related to agricultural and environmental engineering / sciences
 - 📫 How to reach me: jaskaran.dhiman@mail.mcgill.ca
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: I have a diverse experience background, and worked/working as:
+- ⚡ Work ex: I have a diverse experience background, and worked/working as:
   - Faculty Lecturer, McGill University, Faculty of Agricultural and Environmental Sciences
   - Sr. Data Scientist, Govt. of Manitoba, Canada - MB Health
   - Post doctoral fellow University of Guelph - School of Engineering

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jasdhiman
-- 👀 I’m interested in finding data driven solutions to promote environmental and food sustainability
+- 👀 I’m interested in finding data driven solutions for informed policy making, promote environmental and food sustainability
 - 🌱 I’m currently learning about new technologies and strategies for the same
 - 💞️ I’m looking to collaborate on projects related to agricultural and environmental engineering / sciences
 - 📫 How to reach me: jaskaran.dhiman@mail.mcgill.ca
